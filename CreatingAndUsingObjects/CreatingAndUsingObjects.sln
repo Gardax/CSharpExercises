@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenRandomValues", "CreatingAndUsingObjects\TenRandomValues.csproj", "{97FA0C3E-2FDC-4EC7-91CA-666350D7CA4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfWeek", "DayOfWeek\DayOfWeek.csproj", "{1513027D-0904-4794-8BB1-9BDB47D03F06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleSurface", "TriangleSurface\TriangleSurface.csproj", "{8170AE5F-84F6-4F17-A60E-AF402C656E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap", "Leap\Leap.csproj", "{024D08B7-BE61-4640-820A-61FFC45FD4F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfIntegers", "SumOfIntegers\SumOfIntegers.csproj", "{7410DAE6-EFAC-4AFA-B616-ACE1F6284F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97FA0C3E-2FDC-4EC7-91CA-666350D7CA4D}.Debug|x86.ActiveCfg = Debug|x86
+		{97FA0C3E-2FDC-4EC7-91CA-666350D7CA4D}.Debug|x86.Build.0 = Debug|x86
+		{97FA0C3E-2FDC-4EC7-91CA-666350D7CA4D}.Release|x86.ActiveCfg = Release|x86
+		{97FA0C3E-2FDC-4EC7-91CA-666350D7CA4D}.Release|x86.Build.0 = Release|x86
+		{1513027D-0904-4794-8BB1-9BDB47D03F06}.Debug|x86.ActiveCfg = Debug|x86
+		{1513027D-0904-4794-8BB1-9BDB47D03F06}.Debug|x86.Build.0 = Debug|x86
+		{1513027D-0904-4794-8BB1-9BDB47D03F06}.Release|x86.ActiveCfg = Release|x86
+		{1513027D-0904-4794-8BB1-9BDB47D03F06}.Release|x86.Build.0 = Release|x86
+		{8170AE5F-84F6-4F17-A60E-AF402C656E4B}.Debug|x86.ActiveCfg = Debug|x86
+		{8170AE5F-84F6-4F17-A60E-AF402C656E4B}.Debug|x86.Build.0 = Debug|x86
+		{8170AE5F-84F6-4F17-A60E-AF402C656E4B}.Release|x86.ActiveCfg = Release|x86
+		{8170AE5F-84F6-4F17-A60E-AF402C656E4B}.Release|x86.Build.0 = Release|x86
+		{024D08B7-BE61-4640-820A-61FFC45FD4F3}.Debug|x86.ActiveCfg = Debug|x86
+		{024D08B7-BE61-4640-820A-61FFC45FD4F3}.Debug|x86.Build.0 = Debug|x86
+		{024D08B7-BE61-4640-820A-61FFC45FD4F3}.Release|x86.ActiveCfg = Release|x86
+		{024D08B7-BE61-4640-820A-61FFC45FD4F3}.Release|x86.Build.0 = Release|x86
+		{7410DAE6-EFAC-4AFA-B616-ACE1F6284F6F}.Debug|x86.ActiveCfg = Debug|x86
+		{7410DAE6-EFAC-4AFA-B616-ACE1F6284F6F}.Debug|x86.Build.0 = Debug|x86
+		{7410DAE6-EFAC-4AFA-B616-ACE1F6284F6F}.Release|x86.ActiveCfg = Release|x86
+		{7410DAE6-EFAC-4AFA-B616-ACE1F6284F6F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

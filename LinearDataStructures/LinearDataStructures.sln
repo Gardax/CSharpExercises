@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfIntegers", "LinearDataStructures\SumOfIntegers.csproj", "{0E8187A2-955D-40F1-9E9D-9047CE9F96CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseIntegersStack", "ReverseIntegersStack\ReverseIntegersStack.csproj", "{7E44DF80-6011-4371-8925-295485D0BDC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingList", "SortingList\SortingList.csproj", "{D5E3BF76-9E19-4574-AAA6-A4DE065FA8E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemovingItems", "RemovingItems\RemovingItems.csproj", "{4E330D3B-FC1F-488A-876D-9011CF13E2CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajorantOfAnArray", "MajorantOfAnArray\MajorantOfAnArray.csproj", "{910243F3-650C-48EF-B4DA-AA2B69E214A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E8187A2-955D-40F1-9E9D-9047CE9F96CF}.Debug|x86.ActiveCfg = Debug|x86
+		{0E8187A2-955D-40F1-9E9D-9047CE9F96CF}.Debug|x86.Build.0 = Debug|x86
+		{0E8187A2-955D-40F1-9E9D-9047CE9F96CF}.Release|x86.ActiveCfg = Release|x86
+		{0E8187A2-955D-40F1-9E9D-9047CE9F96CF}.Release|x86.Build.0 = Release|x86
+		{7E44DF80-6011-4371-8925-295485D0BDC1}.Debug|x86.ActiveCfg = Debug|x86
+		{7E44DF80-6011-4371-8925-295485D0BDC1}.Debug|x86.Build.0 = Debug|x86
+		{7E44DF80-6011-4371-8925-295485D0BDC1}.Release|x86.ActiveCfg = Release|x86
+		{7E44DF80-6011-4371-8925-295485D0BDC1}.Release|x86.Build.0 = Release|x86
+		{D5E3BF76-9E19-4574-AAA6-A4DE065FA8E4}.Debug|x86.ActiveCfg = Debug|x86
+		{D5E3BF76-9E19-4574-AAA6-A4DE065FA8E4}.Debug|x86.Build.0 = Debug|x86
+		{D5E3BF76-9E19-4574-AAA6-A4DE065FA8E4}.Release|x86.ActiveCfg = Release|x86
+		{D5E3BF76-9E19-4574-AAA6-A4DE065FA8E4}.Release|x86.Build.0 = Release|x86
+		{4E330D3B-FC1F-488A-876D-9011CF13E2CC}.Debug|x86.ActiveCfg = Debug|x86
+		{4E330D3B-FC1F-488A-876D-9011CF13E2CC}.Debug|x86.Build.0 = Debug|x86
+		{4E330D3B-FC1F-488A-876D-9011CF13E2CC}.Release|x86.ActiveCfg = Release|x86
+		{4E330D3B-FC1F-488A-876D-9011CF13E2CC}.Release|x86.Build.0 = Release|x86
+		{910243F3-650C-48EF-B4DA-AA2B69E214A7}.Debug|x86.ActiveCfg = Debug|x86
+		{910243F3-650C-48EF-B4DA-AA2B69E214A7}.Debug|x86.Build.0 = Debug|x86
+		{910243F3-650C-48EF-B4DA-AA2B69E214A7}.Release|x86.ActiveCfg = Release|x86
+		{910243F3-650C-48EF-B4DA-AA2B69E214A7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
