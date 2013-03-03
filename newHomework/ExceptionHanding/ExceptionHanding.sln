@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootOfNumber", "RootOfNumber\RootOfNumber.csproj", "{BF65A7B5-82B4-4093-9EF7-0CA067C0818C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadNumber", "ReadNumber\ReadNumber.csproj", "{45F7AD25-EDFC-4257-94E2-03D8D7926DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadPicture", "DownloadPicture\DownloadPicture.csproj", "{570C89F8-BF93-497F-BCC4-09D41B11C465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF65A7B5-82B4-4093-9EF7-0CA067C0818C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF65A7B5-82B4-4093-9EF7-0CA067C0818C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF65A7B5-82B4-4093-9EF7-0CA067C0818C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF65A7B5-82B4-4093-9EF7-0CA067C0818C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45F7AD25-EDFC-4257-94E2-03D8D7926DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F7AD25-EDFC-4257-94E2-03D8D7926DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F7AD25-EDFC-4257-94E2-03D8D7926DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F7AD25-EDFC-4257-94E2-03D8D7926DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{570C89F8-BF93-497F-BCC4-09D41B11C465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570C89F8-BF93-497F-BCC4-09D41B11C465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570C89F8-BF93-497F-BCC4-09D41B11C465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570C89F8-BF93-497F-BCC4-09D41B11C465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
