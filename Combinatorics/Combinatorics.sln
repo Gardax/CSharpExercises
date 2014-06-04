@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1.Passwords", "Problem1.Passwords\Problem1.Passwords.csproj", "{28FFBBE5-2FB5-43E0-8108-1F23ED1D289C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4.Balls", "Problem4.Balls\Problem4.Balls.csproj", "{B8D5DB1B-4265-4E9B-A51F-1FC5FF813595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28FFBBE5-2FB5-43E0-8108-1F23ED1D289C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FFBBE5-2FB5-43E0-8108-1F23ED1D289C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FFBBE5-2FB5-43E0-8108-1F23ED1D289C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FFBBE5-2FB5-43E0-8108-1F23ED1D289C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D5DB1B-4265-4E9B-A51F-1FC5FF813595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D5DB1B-4265-4E9B-A51F-1FC5FF813595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D5DB1B-4265-4E9B-A51F-1FC5FF813595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D5DB1B-4265-4E9B-A51F-1FC5FF813595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

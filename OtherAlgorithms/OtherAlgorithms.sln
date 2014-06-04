@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coins", "Coins\Coins.csproj", "{87C95CF9-DDC9-401A-B8C7-F2FC04A80292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsInTriangle", "IsInTriangle\IsInTriangle.csproj", "{20F8040A-D3F6-44CB-9D05-AC87DC8753E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87C95CF9-DDC9-401A-B8C7-F2FC04A80292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C95CF9-DDC9-401A-B8C7-F2FC04A80292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C95CF9-DDC9-401A-B8C7-F2FC04A80292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C95CF9-DDC9-401A-B8C7-F2FC04A80292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F8040A-D3F6-44CB-9D05-AC87DC8753E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F8040A-D3F6-44CB-9D05-AC87DC8753E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F8040A-D3F6-44CB-9D05-AC87DC8753E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F8040A-D3F6-44CB-9D05-AC87DC8753E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+Hello,
+You must change the property Stretch of the images from none to fill.
+Here is an example:
+<Image Source="Icons/fileNew.png" Stretch="Fill" />
+That will fix your problem!
